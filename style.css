@@ -8,6 +8,7 @@ body {
   font-size: 36px;
   text-align: center;
   background-image: linear-gradient(55deg, #c4dbff, #e0e0e0, #c4dbff);
+  background-repeat: no-repeat;
   padding: 0;
 }
 
